@@ -1,23 +1,11 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
 
-
-https://live.hacks.tools/tv/iptv4.txt
 https://gitee.com/zwssina/yunduanyuan/raw/master/SB
-https://live.45678888.xyz/sub?kbQyhXwA=m3u
 https://gitee.com/tangyuan1120/tv/raw/master/10086.m3u
-https://gitee.com/hzxs800274/iptv/raw/master/live/TV
 https://gitee.com/lwr851/live/raw/master/iptv.m3u
-https://supprise0901.github.io/TVBox_live/live.txt
-https://gitee.com/hw2837/iptv/raw/master/iptv
-https://gitee.com/szwxk/watch-television/raw/master/wxk1.m3u
-http://www.52top.com.cn:678/downloads/migu.txt
 http://zo.gt.tc/o/i/白菜鸟.txt
-https://d.kstore.dev/download/12441/ds9.txt
-http://1.94.31.214/live/live9/dgtv2026.php
-https://d.kstore.dev/download/11344/yunduan.txt
-http://api.lmxsd.cn/2485.txt
-https://gitee.com/hbo2/iptv/raw/main/iptv.txt
+
 
 
 
